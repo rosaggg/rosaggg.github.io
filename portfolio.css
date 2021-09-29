@@ -1,0 +1,82 @@
+body {
+    background-color:#FEFBF3 ;
+}
+
+.image {
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.aboutMe h1 {
+    color: #334257;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.aboutMe p {
+    color: #548CA8;
+    text-align: center;
+}
+
+.header h1 {
+    color: #334257;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.header h4 {
+    color: #548CA8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.header p {
+    text-align: center;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 5px;
+}
+div{
+    padding: 50px;
+    border-style: solid;
+    font-size: 1em;
+}
+.box1 video{
+    width=50px;
+    height= 50px;
+}
+.box2 video{
+    width=25px;
+    height= 25px;
+}
+
+.box3 img {
+    width= 1em;
+    height= 1em;
+}
+
+.intro h1 {
+    color: #334257;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+
+.intro p {
+    color: #548CA8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.intro img {
+    position: left;
+   width:100%;
+}
